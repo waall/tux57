@@ -1,0 +1,30 @@
+{
+  "1xx": {
+    "100": "Continue"
+  },
+  "2xx": {
+    "200": "OK",
+    "201": "Created",
+    "204": "No Content"
+  },
+  "3xx": {
+    "301": "Moved Permanently",
+    "302": "Found (Temporary Redirect)",
+    "304": "Not Modified"
+  },
+  "4xx": {
+    "400": "Bad Request",
+    "401": "Unauthorized",
+    "403": "Forbidden",
+    "404": "Not Found",
+    "405": "Method Not Allowed",
+    "415": "Unsupported Media Type",
+    "422": "Unprocessable Content",
+    "429": "Too Many Reqests"
+  },
+  "5xx": {
+    "500": "Internal Server Error",
+    "502": "Bad Gateway",
+    "503": "Service Unavailable"
+  }
+}
